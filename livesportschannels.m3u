@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U#EXTM3U
 
 # TNT SPORTS CHANNELS
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/07/tnt-sports-uk-branding.jpg",TNT SPORTS 1
@@ -13,6 +13,10 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd?|drmScheme=clearkey&drmLicense=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/07/tnt-sports-uk-branding.jpg",TNT F1
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd?|drmScheme=clearkey&drmLicense=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+
+# JIO CHANNELS
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg",Sports 18 1 HD
+https://drmlive.in/jiocinema/web/122.m3u8
 
 # SONY SPORTS TEN CHANNELS
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY Sports Ten 1 HD
